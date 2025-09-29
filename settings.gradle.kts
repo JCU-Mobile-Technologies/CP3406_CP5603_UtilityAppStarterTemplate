@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CP3406_CP5603 Utility App Starter Template"
+rootProject.name = "CP3406_CP5307 Utility App Starter Template"
 include(":app")

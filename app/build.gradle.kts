@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "au.edu.jcu.cp3406_cp5603utilityappstartertemplate"
+    namespace = "au.edu.jcu.cp3406_cp5307_utilityappstartertemplate"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "au.edu.jcu.cp3406_cp5603utilityappstartertemplate"
+        applicationId = "au.edu.jcu.cp3406_cp5307_utilityappstartertemplate"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
